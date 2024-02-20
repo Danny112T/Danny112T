@@ -3,4 +3,6 @@
 
 ![https://github.com/Danny112T](https://github.com/Danny112T/Danny112T/assets/91617620/d9c26c12-8139-4caf-9b83-93b8232dd04c)
 
- 
+ <div align="center "> 
+  <p> <image src="https://github-readme-streak-stats.herokuapp.com/?user=Danny112T" /> </p>
+ </div>
