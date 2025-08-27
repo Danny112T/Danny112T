@@ -6,6 +6,8 @@
 
 <hr/>
 
+<h2 align="center">🤓 Me</h2><p align="center">
+ 
 ```json
 {
  "My name is": "Daniel Tovar",
@@ -21,7 +23,6 @@
 | <h4 align="center">📚 Frameworks & Libraries</h4> | <h4 align="center">💻 Programming languages</h4> | <h4 align="center">🔧 Tools & Software</h4> | <h4 align="center">☁️ Cloud & Providers</h4>
 | :---: | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=laravel,apollo,graphql,nodejs,fastapi,githubactions,tailwind,express,react,pytorch,sklearn,tensorflow&perline=3"/> | <img src="https://skillicons.dev/icons?i=bash,go,swift,lua,nix,html,js,php,ts,css,,py,md,r&perline=5"/> | <img src="https://skillicons.dev/icons?i=neovim,vscode,apple,obsidian,bun,github,docker,postman,discord,androidstudio,,,figma,zed&perline=5"/> | <img src="https://skillicons.dev/icons?i=aws,heroku,mongodb,mysql,postgres,sqlite,vercel,redis,supabase&perline=3"/>
-<br/>
 
 
 <div align="center">
