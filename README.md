@@ -43,7 +43,7 @@
  <a href="https://www.instagram.com/idanny.dev">
   <img src="https://skillicons.dev/icons?i=instagram"/>
  </a>
- <a href="mailto:dtovarp1700@alumno.ipn.mx">
+ <a href="mailto:dannytov112@icloud.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
  </a>
  <a href="https://x.com/dantov112">
