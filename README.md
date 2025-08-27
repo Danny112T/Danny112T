@@ -17,26 +17,12 @@
 ```
 
 <h2 align="center">🧑🏻‍💻 My Skills</h2><p align="center">
+ 
+| <h4 align="center">📚 Frameworks & Libraries</h4> | <h4 align="center">💻 Programming languages</h4> | <h4 align="center">🔧 Tools & Software</h4> | <h4 align="center">☁️ Cloud & Providers</h4>
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=laravel,apollo,graphql,nodejs,fastapi,githubactions,tailwind,express,react,pytorch,sklearn,tensorflow&perline=3"/> | <img src="https://skillicons.dev/icons?i=bash,go,swift,lua,nix,html,js,php,ts,css,,py,md,r&perline=5"/> | <img src="https://skillicons.dev/icons?i=neovim,vscode,apple,obsidian,bun,github,docker,postman,discord,androidstudio,,,figma,zed&perline=5"/> | <img src="https://skillicons.dev/icons?i=aws,heroku,mongodb,mysql,postgres,sqlite,vercel,redis,supabase&perline=3"/>
+<br/>
 
-<h4 align="center">💻 Programming languages (and html)</h4>
-<p align="center">
- <img src="https://skillicons.dev/icons?i=bash,go,swift,lua,nix,html,js,php,ts,css,,py,md,r&perline=5"/>
-</p>
-
-<h4 align="center">📚 Frameworks & Libraries</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=laravel,apollo,graphql,nodejs,fastapi,githubactions,tailwind,express,react,pytorch,sklearn,tensorflow&perline=3"/>
-</p>
-
-<h4 align="center">🔧 Tools & Software</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=neovim,vscode,apple,obsidian,bun,github,docker,postman,discord,androidstudio,,,figma,zed&perline=5"/>
-</p>
-
-<h4 align="center">☁️ Cloud & Providers</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,heroku,mongodb,mysql,postgres,sqlite,vercel,redis,supabase&perline=3"/>
-</p>
 
 <div align="center">
  <h2 align="center">☕ Statistics</h2>
