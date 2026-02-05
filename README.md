@@ -11,10 +11,11 @@
 ```json
 {
  "My name is": "Daniel Tovar",
- "I'm": "23 years old",
- "I studied at": "National Polytechnic Institute",
+ "I'm": "24 years old",
+ "I'm studing": "Master of Science in Information Processing",
+ "I studied at": "National Polytechnic Institute - UPIIZ",
  "I'm currently learning": ["go", "swift"], 
- "I love": ["soccer", "cinema", "video games", "draw"]
+ "I love": ["Data Science", "Data Mining", "Soccer", "Cinema", "Video Games", "Comics"]
 }
 ```
 
